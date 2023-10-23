@@ -13,6 +13,7 @@ namespace ConsoleApp1
 			String name = "Человек";
 			System.Console.WriteLine("Привет, мир от {0}!", name);
 			System.Console.ReadLine();
+			//Привет
 		}
 	}
 }
